@@ -52,3 +52,4 @@ g++ -std=c++17 -o redis_server main.cpp
 
 # 使用 telnet 或客户端连接测试
 telnet 127.0.0.1 6379
+```

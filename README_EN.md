@@ -7,7 +7,6 @@
 
 ### ✅ English Version README
 
-```markdown
 # Redis From 0 to 1 (Build Redis from Scratch)
 
 This project implements a Redis-like high-performance key-value store from scratch, covering networking, event-driven architecture, data structures, and concurrency control.
@@ -57,3 +56,4 @@ g++ -std=c++17 -o redis_server main.cpp
 
 # Use telnet or custom client to test
 telnet 127.0.0.1 6379
+```
