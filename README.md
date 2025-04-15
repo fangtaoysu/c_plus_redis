@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/fangtaoysu/c_plus_redis/README.md">中文</a> | 
-  <a href="https://github.com/fangtaoysu/c_plus_redis/README_EN.md">English</a>
+  <a href="https://github.com/fangtaoysu/c_plus_redis/blob/main/README.md">中文</a> | 
+  <a href="https://github.com/fangtaoysu/c_plus_redis/blob/main/README_EN.md">English</a>
 </p>
 
 # Redis From 0 to 1（手写 Redis 实现）
